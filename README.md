@@ -1,6 +1,6 @@
 #sobre mim 
 
--👀 👋olá, meu nome é @dudaluchetti
+-👀 👋olá, meu nome é **@dudaluchetti**
 
 -👀 meu email de contato é eduarda.luchetti@escola.pr.gov.br
 
